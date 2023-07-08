@@ -5,3 +5,5 @@ The purpose of this analysis is to create and train a Neural Network that can ta
 The Starter_Code.ipynb is the first attempt at implementing a Deep Learning Model to make predictions of applicant success, and the AlphabetSoupCharity.h5 file is the trained model from Starter_Code.ipynb.
 
 The AlphabetSoupCharity_Optimization.ipynb creates new Deep Learning Models to improve the accuracy of predictions of applicant success, and the AlphabetSoupCharity_Optimization.h5 file is the trained model from AlphabetSoupCharity_Optimization.ipynb.
+
+The Deep Learning Report.docx is a report that provides a more detailed overview of the analysis, the results, and a summary of the results with possible improvements that could be made in future iterations.
